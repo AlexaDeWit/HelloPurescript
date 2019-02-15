@@ -2,7 +2,7 @@
 `yarn setup`
 
 # Run it!
-`yarn start``
+`yarn start`
 
 # Find documentation, search by signature, discover libraries!
 https://pursuit.purescript.org/
